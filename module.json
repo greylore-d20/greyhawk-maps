@@ -1,0 +1,92 @@
+{
+  "id": "greyhawk-maps",
+  "title": "Greyhawk Maps",
+  "description": "Greyhawk Maps by Anna B Meyer",
+  "version": "1.0.0",
+   "authors": [
+    {
+      "name": "Greylore",
+      "discord": "LordGreylore",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "greyhawk-1",
+      "label": "Greyhawk",
+      "path": "packs/greyhawk-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "furyondy-1",
+      "label": "Furyondy",
+      "path": "packs/furyondy-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "wild-coast-1",
+      "label": "Wild Coast",
+      "path": "packs/wild-coast-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "verbobonc-1",
+      "label": "Verbobonc",
+      "path": "packs/verbobonc-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "kron-hills-1",
+      "label": "Kron Hills",
+      "path": "packs/kron-hills-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gnarley-forest-1",
+      "label": "Gnarley Forest",
+      "path": "packs/gnarley-forest-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "abbor-alz-1",
+      "label": "Abbor-Alz",
+      "path": "packs/abbor-alz-1",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]  
+}
