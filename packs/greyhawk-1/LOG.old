@@ -1,7 +1,8 @@
-2026/09/06-19:16:26.301 1618 Recovering log #16
-2026/09/06-19:16:26.309 1618 Delete type=0 #16
-2026/09/06-19:16:26.309 1618 Delete type=3 #14
-2026/09/06-19:27:19.700 1cc Level-0 table #21: started
-2026/09/06-19:27:19.722 1cc Level-0 table #21: 1317 bytes OK
-2026/09/06-19:27:19.727 1cc Delete type=0 #19
-2026/09/06-19:27:19.748 1cc Manual compaction at level-0 from '!scenes!kCtEcJOCWDnr3vWl' @ 72057594037927935 : 1 .. '!scenes!kCtEcJOCWDnr3vWl' @ 0 : 0; will stop at (end)
+2026/09/07-10:19:21.041 9cc Recovering log #40
+2026/09/07-10:19:21.044 9cc Delete type=0 #40
+2026/09/07-10:19:21.044 9cc Delete type=3 #38
+2026/09/07-11:44:11.774 3274 Level-0 table #45: started
+2026/09/07-11:44:11.774 3274 Level-0 table #45: 0 bytes OK
+2026/09/07-11:44:11.781 3274 Delete type=0 #43
+2026/09/07-11:44:11.782 3274 Manual compaction at level-0 from '!scenes!kCtEcJOCWDnr3vWl' @ 72057594037927935 : 1 .. '!scenes!kCtEcJOCWDnr3vWl' @ 0 : 0; will stop at (end)
+2026/09/07-11:44:11.782 3274 Manual compaction at level-1 from '!scenes!kCtEcJOCWDnr3vWl' @ 72057594037927935 : 1 .. '!scenes!kCtEcJOCWDnr3vWl' @ 0 : 0; will stop at (end)
