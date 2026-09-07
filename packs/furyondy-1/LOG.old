@@ -1,0 +1,14 @@
+2026/09/06-19:16:26.315 3268 Recovering log #17
+2026/09/06-19:16:26.323 3268 Delete type=0 #17
+2026/09/06-19:16:26.323 3268 Delete type=3 #14
+2026/09/06-19:27:19.676 1cc Level-0 table #23: started
+2026/09/06-19:27:19.696 1cc Level-0 table #23: 1449 bytes OK
+2026/09/06-19:27:19.699 1cc Delete type=0 #21
+2026/09/06-19:27:19.728 1cc Manual compaction at level-0 from '!scenes!obVilOfV6LkHRERv' @ 72057594037927935 : 1 .. '!scenes!obVilOfV6LkHRERv' @ 0 : 0; will stop at '!scenes!obVilOfV6LkHRERv' @ 9 : 1
+2026/09/06-19:27:19.728 1cc Compacting 1@0 + 1@1 files
+2026/09/06-19:27:19.742 1cc Generated table #24@0: 2 keys, 1340 bytes
+2026/09/06-19:27:19.743 1cc Compacted 1@0 + 1@1 files => 1340 bytes
+2026/09/06-19:27:19.747 1cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/06-19:27:19.748 1cc Delete type=2 #19
+2026/09/06-19:27:19.748 1cc Delete type=2 #23
+2026/09/06-19:27:19.774 1cc Manual compaction at level-0 from '!scenes!obVilOfV6LkHRERv' @ 9 : 1 .. '!scenes!obVilOfV6LkHRERv' @ 0 : 0; will stop at (end)
