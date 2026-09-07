@@ -1,7 +1,7 @@
-2026/09/07-10:19:21.061 1b78 Recovering log #43
-2026/09/07-10:19:21.063 1b78 Delete type=0 #43
-2026/09/07-10:19:21.063 1b78 Delete type=3 #41
-2026/09/07-11:44:11.811 3274 Level-0 table #48: started
-2026/09/07-11:44:11.811 3274 Level-0 table #48: 0 bytes OK
-2026/09/07-11:44:11.818 3274 Delete type=0 #46
-2026/09/07-11:44:11.840 3274 Manual compaction at level-0 from '!scenes!obVilOfV6LkHRERv' @ 72057594037927935 : 1 .. '!scenes!obVilOfV6LkHRERv' @ 0 : 0; will stop at (end)
+2026/09/07-15:16:15.452 1e6c Recovering log #50
+2026/09/07-15:16:15.454 1e6c Delete type=0 #50
+2026/09/07-15:16:15.454 1e6c Delete type=3 #49
+2026/09/07-15:17:03.236 1540 Level-0 table #54: started
+2026/09/07-15:17:03.236 1540 Level-0 table #54: 0 bytes OK
+2026/09/07-15:17:03.237 1540 Delete type=0 #52
+2026/09/07-15:17:03.238 1540 Manual compaction at level-0 from '!scenes!obVilOfV6LkHRERv' @ 72057594037927935 : 1 .. '!scenes!obVilOfV6LkHRERv' @ 0 : 0; will stop at (end)
