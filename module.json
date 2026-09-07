@@ -1,7 +1,7 @@
 {
   "id": "greyhawk-maps",
   "title": "Greyhawk Maps",
-  "description": "Greyhawk Maps artwork by Anna B Meyer",
+  "version": "1.0.0",
   "version": "1.0.2",
   "manifest": "https://github.com/greylore-d20/greyhawk-maps/releases/latest/download/module.json",
   "download": "https://github.com/greylore-d20/greyhawk-maps/releases/latest/download/module.zip",
@@ -84,11 +84,82 @@
       "name": "abbor-alz-1",
       "label": "Abbor-Alz",
       "path": "packs/abbor-alz-1",
-      "type": "JournalEntry",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bright-lands-1",
+      "label": "Bright Lands",
+      "path": "packs/bright-lands-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "veluna-1",
+      "label": "Veluna",
+      "path": "packs/veluna-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pomarj-1",
+      "label": "Pomarj",
+      "path": "packs/pomarj-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "shield-lands-1",
+      "label": "Shield Lands",
+      "path": "packs/shield-lands-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "nyrond-1",
+      "label": "Nyrond",
+      "path": "packs/nyrond-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "duchy-urnst-1",
+      "label": "Duchy of Urnst",
+      "path": "packs/duchy-urnst-1",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "bandit-kingdoms-1",
+      "label": "Bandit Kingdoms",
+      "path": "packs/bandit-kingdoms-1",
+      "type": "Scene",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     }
-  ]  
+  ],
+  "description": ""
 }
